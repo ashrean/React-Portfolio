@@ -6,7 +6,6 @@
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
 - [Github Account](#github-account)
-- [Images](#images)
 - [Contacts](#contacts)
 - [Code Snippets](#code-snippets)
 - [Resources](#resources)
@@ -24,8 +23,6 @@ The application is built with the purpose of creating my portfolio using the Cre
 - [GitHub](https://github.com/ashrean)
 - [Deployed Link](https://ashrean.github.io/React-Portfolio/)
 
-# Images
-![alt text]()
 
 # Contacts
 - [Email](sese.ashrean@gmail.com)

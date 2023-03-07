@@ -2,12 +2,12 @@ import React, {Component} from 'react';
 import { HashRouter, Route } from 'react-router-dom';
 import './App.css';
 
-import Header from './components/Header';
-import Home from './components/Home';
-import About from './components/About';
-import Contact from './components/Contacts';
-import Portfolio from './components/Portfolio';
-import Footer from './components/Footer';
+import Header from './components/Header/header.js';
+import Home from './components/Home/home.js';
+import About from './components/About/aboutMe.js';
+import Contact from './components/Contacts/contactInfo.js';
+import Portfolio from './components/Portfolio/portfolio.js';
+import Footer from './components/Footer/footer.js';
 
 
 class App extends Component {
