@@ -1,6 +1,6 @@
 import React from "react";
 
-import comingsoon2 from "../../../assets/images/comingsoon2.jpeg";
+import comingsoon2 from "../../assets/images/comingsoon2.jpeg";
 
 function Portfolio() {
   return (
